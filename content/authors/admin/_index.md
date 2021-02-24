@@ -1,6 +1,6 @@
 ---
 role: Assistant Professor, Doctor in Economics & Data Scientist
-avatar_filename: ARCHavatar.jpg
+avatar_filename: ""
 bio: My research interests include econometric modelling and Machine Learning
   tools applied to consumer behavior and managers strategic decision in the
   fields of smart-products (Artificial Intelligence, IoT, CPP, etc), transport,
