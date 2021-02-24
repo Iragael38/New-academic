@@ -22,24 +22,55 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Assistant Professor
+    company: Industrial Engineering and Management School - Grenoble Inp
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Grenoble - France
+    date_start: '2007-11-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+       *   **Research**:  Consumption and Behavioral Economics, Transport Economics
+       *   **Teaching**: Economics and Data Analysis
+       *   **Admin**: member of the executive team of IEM School (since 2018)
+  
+  - title: HDR in Economics
+    company: University of Lyon
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Lyon - Fr
+    date_start: '2017-07-01'
+    date_end: '2017-08-01'
+    description: |2-
+       Accreditation to Supervise Research and PhD Students
+       + **Modelling behavior of derived consumption: the case of travel time**
+       + *Jury* : Thierry Blayac, Michel Bierlaire , Sylvie Charlot, Hubert Jayet et Michel Simioni
+
+  - title: Graduate Research Assistant / Lecturer
+    company: Transport Economics Laboratory
+    company_url: ''
+    location: Lyon - Fr
+    date_start: '2005-12-01'
+    date_end: '2008-06-01'
+    description: |2-
+        Researcher on Predit and ANR projects on activity-based analysis of mobility behavior.
+        - Mobility and Activity-Based Analysis
+        - Travel survey of 15 European cities
+
+  - title: PhD Student & Lecturer
+    company: University of Lyon - Transport Economics Laboratory
+    company_url: ''
+    location: Lyon - Fr
+    date_start: '2001-11-01'
+    date_end: '2005-12-01'
+    description: |2-
+        +  PhD: *Allocation of time to travel - International study of travel time budget and duration model* under supervision of  Alain Bonnafous
+          
+        +  *Teaching*:  Econometrics (Introduction ; Panel date ; Discret choice model ; Survival analysis) & Industrial Economics & MicroEconomics
+      
+  - title: ATER
+    company: University of Lyon - Transport Economics Laboratory
+    company_url: ''
+    location: Lyon - Fr
+    date_start: '2004-09-01'
+    date_end: '2006-08-01'
+    description:   Lectures in Economics and Econometrics
 ---

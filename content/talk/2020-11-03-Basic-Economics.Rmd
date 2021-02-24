@@ -1,0 +1,64 @@
+---
+title: 'Basic Economics for Industrial Engineering'
+author: admin
+date: '2020-11-03'
+subtitle: ''
+summary: ''
+authors: [IJ]
+lastmod: '2020-11-03'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+link-citations: yes
+biblio-style: apalike
+bibliography: [data/biblio_SABD.bib]
+\nocite: |
+ @Greene2008,@Greene2009, @McFaddenTrain2000, @Train2009, @Agresti2013, 
+---
+
+## Objectives
+
+- To provide an overview of the economist way of thinking and knowledge of the fundamental economic tools and topics (micro-economics of consumer and producer, industrial organization (IO), markets).
+- To apply these tools and reasoning way to case studies.
+The course is a prerequisite for other economics courses (Industrial Economics and Sustainable Economics)
+
+## Website of the couse
+
+[Basic Economics for Industrial Engineering](https://sie-basic-eco.netlify.app/)
+
+
+## Method
+
+The lessons are organized as a master level class in economics. They are based on readings of textbooks (before the class) and in class presentations of students and discussions of case-studies with lecturers
+
+## Specific knowledge
+
+This course presents the main tools for economics analysis useful for industrial engineers. The aim is to equip students with an understanding of both the demand and the offer side of a market, at the micro and the macro levels. Engineer’s world is facing complex situation, economist tools give a useful and complementary point of view to decide in complex situation. Economics analysis of markets and organizations is fundamental for industrial engineers who aim at participating to industry efficiency in term of value creation and profitability. Analyzing consumption behavior, production strategy and individual / organization interactions are the skills to be developed in this course.
+
+The course is organized in three main topics: Economics of consumption and economics of production and markets analysis. These three parts are complemented with illustrations and case study of industrial engineering facing sustainable problems.
+
+## General knowledge
+
+By participating and engaging in this course, students should be better able to analyze, model and solve (when possible) economic problem. Student should be able to propose synthetic survey of problem and to produce models of interactions between economic agents at stake in a problem. They are expected to conduct critical analysis of the hypotheses underlying models and of their results.
+
+Students should be capable of presenting (oral and written) synthetic analysis of a problem, of demonstrating logical argument, of conducting individual and team work.
+
+## Plan
+
+Introduction: Market, supply and demand  
+I. Economics of demand  
+a. Theory of the consumer  
+b. Consumption decision  
+II. Economics of production  
+a. Theory of the firm  
+b. Firm's cost and profit  
+III. Markets Analysis  
+a. Market demand  
+b. Market supply  
+c. Welfare and market efficiency  
+
+## References
+
